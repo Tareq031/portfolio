@@ -1,7 +1,8 @@
 # Tarequl Islam — Developer Portfolio
 
 A responsive personal portfolio built with Next.js App Router, TypeScript, Tailwind CSS, and Lucide icons.
-
+ Live Link : https://portfolio-nu-wheat-883kv9x7h1.vercel.app/
+ 
 ## Run locally
 
 1. Install Node.js (LTS).
